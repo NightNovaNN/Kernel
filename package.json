@@ -1,0 +1,20 @@
+{
+  "name": "kernel",
+  "displayName": "Kernel",
+  "description": "A calm, low-level dark theme for deep focus.",
+  "version": "0.0.1",
+  "publisher": "ISD-NightNova",
+  "engines": {
+    "vscode": "1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kernel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kernel.json"
+      }
+    ]
+  }
+}
