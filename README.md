@@ -9,7 +9,10 @@ Just clean structure and sharp highlights.
 
 ## Images
 
+### MarkDown Example
 ![MD-Example](assets/image.png)
+
+### JavaScript Example
 ![JS-Example](assets/image-1.png)
 
 ## ✨ Features
